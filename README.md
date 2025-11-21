@@ -8,9 +8,6 @@ Diogo Henrique Alves Magalhães – RM 568541
 
 Gilberto Hideaki Matsunaga – RM 568191
 
-# Link
-https://wokwi.com/projects/448265291967481857
-
 # Sobre o Projeto
 Este projeto apresenta uma **Sala de Capacitação Inteligente**, criada para melhorar ambientes de aprendizagem em comunidades rurais por meio de uma solução IoT acessível.
 
@@ -61,4 +58,19 @@ Trata-se de uma solução simples, de baixo custo, e que melhora imediatamente a
 **Broker:** `test.mosquitto.org`  
 **Porta:** `1883`  
 **Tópico:**  
+
+# Simulação Wokwi
+
+O projeto foi montado e testado no simulador Wokwi, que permite:
+
+variar manualmente a iluminação do LDR
+
+observar o LED acender/apagar automaticamente
+
+visualizar logs via Serial Monitor
+
+validar o envio MQTT em tempo real
+
+# 👉 Link do Wokwi:
+https://wokwi.com/projects/448265291967481857
 
