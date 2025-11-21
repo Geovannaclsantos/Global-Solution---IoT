@@ -1,5 +1,15 @@
 # Global-Solution---IoT
 FIAP – IoT + ESP32 + Wokwi + MQTT
+# Integrantes
+
+Geovanna Caroline Lima Santos – RM 567754
+
+Diogo Henrique Alves Magalhães – RM 568541
+
+Gilberto Hideaki Matsunaga – RM 568191
+
+# Link
+https://wokwi.com/projects/448265291967481857
 
 # Sobre o Projeto
 Este projeto apresenta uma **Sala de Capacitação Inteligente**, criada para melhorar ambientes de aprendizagem em comunidades rurais por meio de uma solução IoT acessível.
